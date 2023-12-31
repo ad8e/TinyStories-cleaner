@@ -10,7 +10,7 @@ It throws away stories <100 chars or ones that don't end in punctuation. These a
 
 It throws away the GPT-3.5 stories, which were described as "of lesser quality".
 
-In total, 12039 stories are deleted of the GPT-4 stories, and 2733291 stories remain.
+In total, 12039 GPT-4 stories are deleted, and 2733291 stories remain.
 
 It throws away the metadata. If you need it, you'll need to change the script to preserve the metadata.
 
