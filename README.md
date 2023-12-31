@@ -18,7 +18,7 @@ It throws away the metadata. If you need it, you'll need to change the script to
 
 Download https://huggingface.co/datasets/roneneldan/TinyStories/blob/main/TinyStories_all_data.tar.gz. This is the right file; the others have problems.
 
-Unzip it. Then run `prepare.py`. It'll produce a pickle file `cleaned_data.pkl`, containing a list of strings.
+Unzip it. Then run `prepare.py` in the directory containing `TinyStories_all_data/`. It'll produce a pickle file `cleaned_data.pkl`, containing a list of strings.
 
 You can load the cleaned data using:
 
