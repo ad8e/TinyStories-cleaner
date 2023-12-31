@@ -4,8 +4,6 @@ import glob
 import pickle
 from collections import Counter
 
-# todo: also figure out which characters are used the least. those are probably bad. like /
-
 # this freezes my computer. let's load 1 at a time instead
 # data = list()
 # for file in glob.glob("TinyStories_all_data/*"):
